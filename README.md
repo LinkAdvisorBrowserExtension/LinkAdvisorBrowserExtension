@@ -1,0 +1,1 @@
+- A browser extension that color-codes tabs based on website reputation, categorizing them as government, finance, business, non-profit, popular, general, or dangerous.
